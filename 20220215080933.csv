@@ -1,0 +1,643 @@
+player,league,team,country
+J. Ayew,Premier League,Crystal Palace,England
+D. Amartey,Premier League,Leicester City,England
+T. Fosu,Premier League,Brentford,England
+T. Partey,Premier League,Arsenal,England
+M. Salisu,Premier League,Southampton,England
+J. Schlupp,Premier League,Crystal Palace,England
+A. Yiadom,Championship,Reading,England
+A. Baba,Championship,Reading,England
+A. Adomah,Championship,Queens Park Rangers,England
+J. Mensah,League One,Morecambe,England
+Y. Amankwah,League One,Accrington Stanley,England
+J. Wollacott,League Two,Swindon Town,England
+K. Appiah,League Two,Crawley Town,England
+K. Arthur,National League,Dover Athletic,England
+Y. Osei-Opoku,Football League,Berwick Rangers,England
+M. Gyasi,National League,Dover Athletic,England
+B. Mensah,National Lea…,Gloucester City,England
+D. Amate,National Lea…,Hampton & Richmond,England
+R. Danquah,Non League P…,Cray Wanderers,England
+P. Haywood,Non League P…,Nantwich Town,England
+E. Andoh,Non League P…,Stratford Town,England
+A. Obeng,Non League P…,Stratford Town,England
+K. Eshun,Non League P…,Hartley Wintney,England
+E. Hottor,Non League P…,St Ives Town,England
+C. Dickson,Non League P…,Cray Wanderers,England
+J. Awuah,Non League D…,Ashford Town (Middlesex),England
+M. Diop,Non League D…,Sutton Coldfield Town,England
+C. Gyamfi,Non League D…,Harlow Town,England
+A. Fuseini,Non League D…,VCD Athletic,England
+S. Grant,Counties Leagues,Westfields,England
+I. Baba,La Liga,Mallorca,Spain
+J. Aidoo,La Liga,Celta Vigo,Spain
+E. Akurugu,La Liga,Getafe,Spain
+M. Dauda,Segunda División,FC Cartagena,Spain
+F. Ofoli,Segunda División,Leganes,Spain
+S. Buer,Segunda División,Fuenlabrada,Spain
+S. Obeng,Segunda División,Real Oviedo,Spain
+R. Boateng,Segunda División,FC Cartagena,Spain
+I. Amoah,Primera Divi…,Real Valladolid II,Spain
+N. Asare,Primera Divi…,Cornellà,Spain
+A. Sumaila,Primera Divi…,Extremadura UD,Spain
+E. Attipoe,Primera Divi…,Albacete,Spain
+R. Brimah,Primera Divi…,Linares Deportivo,Spain
+P. Osei,Primera Divi…,Rayo Majadahonda,Spain
+L. Adeniah,Primera Divi…,Unionistas de Salamanca,Spain
+T. Awudu,Primera Divi…,Badajoz,Spain
+K. Sibo,Primera Divi…,Real Betis II,Spain
+A. Yusif,Segunda Divi…,Leganés II,Spain
+F. Ofoli,Segunda Divi…,Leganés II,Spain
+S. Yemoh,Segunda Divi…,Panadería Pulido,Spain
+Mawuli Mensah,Segunda Divi…,Antequera,Spain
+E. Ohemeng,Segunda Divi…,Tarazona,Spain
+I. Mensah,Segunda Divi…,Leganés II,Spain
+M. Lawal,Tercera Divi…,Moralo,Spain
+P. Osei,Tercera Divi…,Paracuellos Antamira,Spain
+C. Hanson,Tercera Divi…,Calamonte,Spain
+J. Anaba,Tercera Divi…,Recreativo Huelva,Spain
+J. Nkrumah,Tercera Divi…,Moralo,Spain
+S. Gyesi,Tercera Divi…,Paracuellos Antamira,Spain
+N. Kwaku,Tercera Divi…,UCAM Murcia II,Spain
+J. Otuo,Tercera Divi…,Deportivo Alavés II,Spain
+G. Aruna,Tercera Divi…,Moralo,Spain
+S. Abdulai,Tercera Divi…,Getafe II,Spain
+M. Amando,Tercera Divi…,San Martín,Spain
+M. Alhassan,Tercera Divi…,Conquense,Spain
+A. Awudu,Tercera Divi…,Moralo,Spain
+E. Akurugu,Tercera Divi…,Getafe II,Spain
+J. Akrong,Tercera Divi…,Grama,Spain
+B. Mohammed,Tercera Divi…,Valencia II,Spain
+K. Atta,Tercera Divi…,Torrijos,Spain
+P. Dadzie,Tercera Divi…,Marino,Spain
+M. Anaba,Tercera Divi…,Atzeneta,Spain
+H. Medarious,Tercera Divi…,Marbella,Spain
+F. Al Hassan,Tercera Divi…,UD San Pedro,Spain
+S. Kabore,Tercera Divi…,Bala Azul,Spain
+S. Buer,Tercera Divi…,Madrid 2021 FP,Spain
+N. Baffoe,Tercera Divi…,Manresa,Spain
+D. Bempong,Tercera Divi…,Borja,Spain
+E. Mends,Autonómicas,Madridejos,Spain
+A. Sani,Autonómicas,Campanario,Spain
+Meshack,Autonómicas,Ibarra,Spain
+I. Appiah,Autonómicas,Valdivia,Spain
+G. Asante,Autonómicas,Madridejos,Spain
+M. Essiam,Autonómicas,Madridejos,Spain
+M. Abubakari,Autonómicas,Madridejos,Spain
+E. Gyasi,Serie A,Spezia,Italy
+S. Abubakar,Serie A,Sassuolo,Italy
+F. Afena-Gyan,Serie A,Roma,Italy
+A. Duncan,Serie A,Fiorentina,Italy
+C. Ekuban,Serie A,Genoa,Italy
+A. Ankrah,Serie B,Parma,Italy
+B. Gyamfi,Serie B,Benevento,Italy
+D. Mensah,Serie B,Pordenone,Italy
+S. Mawuli,Serie C,Südtirol,Italy
+N. Atiagli,Serie C,Latina,Italy
+E. Enyan,Serie C,Virtus Francavilla,Italy
+M. Odjer,Serie C,Palermo,Italy
+J. Ekuban,Serie C,Monterosi Tuscia,Italy
+M. Welbeck,Serie C,Catanzaro,Italy
+A. Basit,Serie C,Monterosi Tuscia,Italy
+A. Diambo,Serie C,Pescara,Italy
+P. Besea,Serie C,Vis Pesaro,Italy
+J. Sekyere,Serie D,Bagnolese BP,Italy
+K. Nuhu,Bundesliga,Hoffenheim,Germany
+O. Addo,Bundesliga,Borussia Dortmund,Germany
+C. Antwi-Adjej,Bundesliga,Bochum,Germany
+K. Boateng,Bundesliga,Hertha Berlin,Germany
+M. Akoto,2. Bundesliga,Dynamo Dresden,Germany
+K. Ofori,2. Bundesliga,Paderborn,Germany
+D. Kyereh,2. Bundesliga,St. Pauli,Germany
+K. Wriedt,2. Bundesliga,Holstein Kiel,Germany
+B. Manu,2. Bundesliga,Darmstadt,Germany
+H. Sarpei,2. Bundesliga,Ingolstadt,Germany
+M. Zuhs,Regionalliga,Rot Weiss Ahlen,Germany
+F. Mensah Quarshie,Regionalliga,Jeddeloh,Germany
+C. Atsina,Regionalliga,Uerdingen,Germany
+D. Eden,Regionalliga,Teutonia Ottensen,Germany
+M. Osei-Kwadwo,Regionalliga,Preußen Münster,Germany
+J. Williams,Regionalliga,Hertha BSC II,Germany
+K. Owusu,Regionalliga,Hamburger SV II,Germany
+U. Alhassan,Regionalliga,Straelen,Germany
+E. Nyarko,Regionalliga,Eintracht Norderstedt,Germany
+P. Appiah,Oberliga,Greifswalder FC,Germany
+F. Soma,Oberliga,Eintracht Celle,Germany
+A. Djiku,Ligue 1,Strasbourg,France
+A. Waris,Ligue 1,Strasbourg,France
+S. Samed,Ligue 1,Clermont,France
+O. Bukari,Ligue 1,Nantes,France
+G. Mensah,Ligue 1,Bordeaux,France
+K. Sulemana,Ligue 1,Rennes,France
+E. Lomotey,Ligue 2,Amiens SC,France
+N. Opoku,Ligue 2,Amiens SC,France
+G. Bentil,Ligue 2,Niort,France
+E. Ntim,Ligue 2,Valenciennes,France
+E. Assifuah,Ligue 2,Pau,France
+C. Boateng,National 1,Avranches,France
+E. Danso,National 2,Olympique Lyonnais II,France
+E. Quarshie,National 2,GOAL FC,France
+K. Osei,National 2,Aubagne,France
+G. Bekoé,National 2,Haguenau,France
+E. Bonsu,National 3,Mantes 78,France
+G. Bentil,National 3,Niort II,France
+N. Opoku,National 3,Amiens SC II,France
+S. Samed,National 3,Clermont II,France
+C. Boateng,National 3,Avranches II,France
+H. Jamal,National 3,Bordeaux  II,France
+M. Kudus,Eredivisie,Ajax,Netherlands
+K. Sowah,Eredivisie,AZ,Netherlands
+R. Polley,Eredivisie,Heracles,Netherlands
+M. Kudus,Eerste Divisie,Ajax II,Netherlands
+R. Bossman,Derde Divisie,JOS Watergraafsmeer,Netherlands
+M. Amoah,Hoofdklasse,Halsteren,Netherlands
+J. Asante,Superliga,Skënderbeu Korçë,Albania
+A. Agbodzie,Superliga,Skënderbeu Korçë,Albania
+M. Agbekpornu,Superliga,Egnatia Rrogozhinë,Albania
+R. Acquah,Superliga,Teuta Durrës,Albania
+R. Dwumfour,Superliga,Skënderbeu Korçë,Albania
+A. Mensah,Superliga,Skënderbeu Korçë,Albania
+B. Agyare,1st Division,Apolonia Fier,Albania
+Tinga Tei,1st Division,Tërbuni Pukë,Albania
+D. Lomotey,Ligue 1,ES Sétif,Algeria
+J. Esso,Ligue 1,MC Alger,Algeria
+K. Opoku,Ligue 1,USM Alger,Algeria
+A. Masaudu,Ligue 2,MO Béjaïa,Algeria
+D. Quaye,Premier League,Noravank,Armenia
+A. Mensah,Premier League,Urartu,Armenia
+N. Antwi,Premier League,Urartu,Armenia
+R. Gyasi,Premier League,Noah,Armenia
+E. Mireku Attah,Premier League,Van,Armenia
+S. Obonde,Premier League,Noravank,Armenia
+M. Mensah,Capital Terr…,Canberra Croatia,Australia
+L. Agyekum,Bundesliga,Salzburg,Austria
+S. Paintsil,Bundesliga,Hartberg,Austria
+A. Boakye,Bundesliga,Wolfsberger AC,Austria
+F. Amankwah,2. Liga,Liefering,Austria
+R. Dwamena,2. Liga,Blau-Weiß Linz,Austria
+P. Mensah,2. Liga,Blau-Weiß Linz,Austria
+D. Owusu,2. Liga,Liefering,Austria
+G. Agbevor,2. Liga,Liefering,Austria
+L. Agyekum,2. Liga,Liefering,Austria
+A. Boakye,Regionalliga,Wolfsberger AC II,Austria
+A. Alhassan,Regionalliga,Wiener Viktoria,Austria
+B. Essel,Regionalliga,Mauerwerk,Austria
+G. Awuni,Regionalliga,Wels,Austria
+F. Adjei,Regionalliga,Pinzgau Saalfelden,Austria
+S. Musah,Regionalliga,Lauterach,Austria
+T. Adjah,Premier League,Rahmatgonj MFS,Bangladesh
+J. Ofori,Premier League,Energetyk-BGU,Belarus
+M. Ashimeru,First Division A,Anderlecht,Belgium
+J. Osabutey,First Division A,Kortrijk,Belgium
+D. Atanga,First Division A,KV Oostende,Belgium
+I. Asante,First Division A,OH Leuven,Belgium
+J. Paintsil,First Division A,Genk,Belgium
+D. Opare,First Division A,RFC Seraing,Belgium
+N. Ampomah,First Division A,Antwerp,Belgium
+A. Okyere,First Division A,Beerschot,Belgium
+A. Nurudeen,First Division A,AS Eupen,Belgium
+E. Sowah Adjei,First Division A,AS Eupen,Belgium
+I. Nuhu,First Division A,AS Eupen,Belgium
+A. Mohammed,First Division B,Lommel,Belgium
+E. Ocansey,First Division B,Waasland-Beveren,Belgium
+T. Agyepong,First Division B,Lommel,Belgium
+K. Nfodjo,Second Amate…,KRC Gent,Belgium
+S. Addo,Second Amate…,KRC Gent,Belgium
+R. Manu,Second Amate…,Zelzate,Belgium
+E. Annor,Second Amate…,Zelzate,Belgium
+E. Nyarko,Second Amate…,Zelzate,Belgium
+A. Yakubu,Championnat …,ASPAC,Benin
+D. Akologo,Primera División,Aurora,Bolivia
+J. Amoah,Premijer Liga,Rudar Prijedor,Bosnia and Herzegovina
+P. Boafo,Super League,Indera,Brunei Darussalam
+S. Abbey,Super League,Kasuka,Brunei Darussalam
+C. Ohene,First League,CSKA 1948 Sofia,Bulgaria
+B. Kwarema,First League,CSKA Sofia,Bulgaria
+B. Tekpetey,First League,Ludogorets,Bulgaria
+E. Toku,First League,Botev Plovdiv,Bulgaria
+B. Tekpetey,Second League,Ludogorets II,Bulgaria
+J. Amate,Ligue 1,ASFA-Yennenga,Burkina Faso
+I. Fofana,Ligue 1,ASFA-Yennenga,Burkina Faso
+N. Polo,Ligue 1,Salitas,Burkina Faso
+H. Sodogo,Ligue 1,Salitas,Burkina Faso
+E. Kane,Ligue 1,Salitas,Burkina Faso
+R. Opoku,Ligue 1,ASFA-Yennenga,Burkina Faso
+L. Owusu,MLS,Vancouver Whitecaps,Canada
+R. Ohin,Canadian Pre…,Valour,Canada
+G. Owusu,League 1 Ontario,Master’s Futbol Academy,Canada
+F. Acheampong,CSL,Shenzhen,China PR
+M. Wakaso,CSL,Shenzhen,China PR
+E. Boateng,CSL,Dalian Pro,China PR
+E. Agyemang-Badu,CSL,Qingdao FC,China PR
+E. Etti,China League One,Heilongjiang Ice City,China PR
+I. Amoah,Ligue 1,TP Mazembe,Congo DR
+A. Najeeb,Ligue 1,TP Mazembe,Congo DR
+M. Gariba,Ligue 1,San-Pédro,Côte d'Ivoire
+I. Abass,1. HNL,Rijeka,Croatia
+P. Ampem,1. HNL,Rijeka,Croatia
+S. Amoatheng,1. HNL,Hrvatski Dragovoljac,Croatia
+G. Acquah,1. HNL,Istra 1961,Croatia
+K. Sarfo,1. Division,APOEL,Cyprus
+E. Asante,1. Division,Omonia Nicosia,Cyprus
+A. Wakaso,1. Division,Olympiakos Nicosia,Cyprus
+B. Asamoah,1. Division,Doxa,Cyprus
+A. Bruce,2. Division,Ermis,Cyprus
+D. Mensah,2. Division,Ayia Napa,Cyprus
+M. Ankomah,3. Division,Digenis Morphou,Cyprus
+T. Ali-Abubakar,Czech Liga,Jablonec,Czech Republic
+E. Antwi,FNL,Příbram,Czech Republic
+A. Kuffour,3. liga,Slavia Karlovy Vary,Czech Republic
+E. Adjei Kwame,4. liga,Chomutov,Czech Republic
+T. Ali-Abubakar,Tipsport Liga,Jablonec,Czech Republic
+E. Nuamah,Superliga,Nordsjælland,Denmark
+E. Ofori,Superliga,Vejle,Denmark
+I. Sadiq,Superliga,Nordsjælland,Denmark
+A. Francis,Superliga,Nordsjælland,Denmark
+M. Woledzi,Superliga,Nordsjælland,Denmark
+L. Coulibaly,Superliga,Nordsjælland,Denmark
+E. Ogura,Superliga,Nordsjælland,Denmark
+D. Martin,1. Division,Fremad Amager,Denmark
+E. Bio,1. Division,Fremad Amager,Denmark
+A. Hudu,1. Division,Lyngby,Denmark
+I. Laar,2. Division,Næstved,Denmark
+E. Damoah Yeboah,Denmark Series,Marienlyst,Denmark
+G. Dadzie,Division 1,Arta / Solar 7,Djibouti
+I. Cobbinah,Premier League,El Gouna,Egypt
+B. Afutu,Premier League,El Sharqia Dokhan,Egypt
+S. Sey,Premier League,El Sharqia Dokhan,Egypt
+J. Antwi,Premier League,El Geish,Egypt
+I. Yakubu,Premier League,National Bank of Egypt,Egypt
+M. Alhassan,Premier League,ENPPI,Egypt
+W. Cobbinah,Premier League,Ceramica Cleopatra,Egypt
+M. Salifu,Premier League,Al Ittihad,Egypt
+K. Bonsu,Premier League,Ceramica Cleopatra,Egypt
+B. Boateng,Premier League,Al Ittihad,Egypt
+E. Mensah,Premier League,Ceramica Cleopatra,Egypt
+F. Mantey,Second League,Abu Qair Semad,Egypt
+N. Antwi,Second League,Haras El Hodood,Egypt
+E. Odi,Second League,El Qanah,Egypt
+N. Eshun,Second League,Asyut Petrol,Egypt
+S. Assare,Second League,El Raja,Egypt
+C. Ekow,Second League,El Olympi,Egypt
+I. Nekiman,Second League,El Olympi,Egypt
+A. Annan,Second League,El Entag El Harby,Egypt
+A. Iddrisu,Second League,Aswan,Egypt
+A. Yusif,Meistriliiga,Paide,Estonia
+E. Agyiri,Meistriliiga,FCI Levadia,Estonia
+J. Samed Issah,Esiliiga A,Tartu Welco,Estonia
+I. Moro,Meistaradeildin,HB,Faroe Islands
+T. Mohammed,1. Deild,B71,Faroe Islands
+M. Armah,1. Deild,TB,Faroe Islands
+S. Musah,1. Deild,TB,Faroe Islands
+M. Bediako,1. Deild,TB,Faroe Islands
+C. Antwi,Veikkausliiga,KuPS,Finland
+J. Arthur,Veikkausliiga,SJK,Finland
+M. Abubakari,Veikkausliiga,Mariehamn,Finland
+K. Ofori,Veikkausliiga,SJK,Finland
+B. Mensah,Veikkausliiga,Mariehamn,Finland
+E. Arko-Mensah,Veikkausliiga,Honka,Finland
+N. Banahene,Veikkausliiga,Honka,Finland
+M. Adams,Veikkausliiga,Honka,Finland
+E. Oteng,Veikkausliiga,Ilves,Finland
+S. Babawo,Ykkönen,PIF,Finland
+T. Agyiri,Ykkönen,KTP,Finland
+J. Arthur,Ykkönen,SJK Akatemia,Finland
+K. Ofori,Ykkönen,SJK Akatemia,Finland
+E. Oteng,Kakkonen,Ilves II,Finland
+N. Banahene,Kakkonen,Honka Akatemia,Finland
+M. Adams,Kakkonen,RoPS II,Finland
+S. Babawo,Kakkonen,PIF,Finland
+J. Arthur,Kakkonen,SJK Akatemia,Finland
+K. Ofori,Kakkonen,SJK Akatemia,Finland
+B. Andoh,Kolmonen,Kultsu,Finland
+B. Osei,Erovnuli Liga,Dinamo Tbilisi,Georgia
+A. Frimpong,Erovnuli Liga,Dinamo Batumi,Georgia
+M. Yahaya,Premier Division,Lincoln Red Imps,Gibraltar
+E. Ocran,Premier Division,Lincoln Red Imps,Gibraltar
+I. Ayew,Premier Division,Europa,Gibraltar
+F. Seid,Premier Division,College 1975,Gibraltar
+L. Agbenyenu,Super League 1,Aris,Greece
+R. Chibsah,Super League 1,Apollon Smirnis,Greece
+D. Argilesi,Super League 2,Irodotos,Greece
+K. Fobi,Super League 2,Chania,Greece
+A. Tetteh,Super League 2,Kifisia,Greece
+E. Addo,Super League 2,Asteras Vlachioti,Greece
+S. Hammond,Super League 2,Levadiakos,Greece
+O. Quaye,Super League 2,Asteras Vlachioti,Greece
+I. Baidoo,Super League 2,Veria,Greece
+K. Abankwa,Super League 2,Asteras Vlachioti,Greece
+C. Kwateng,Super League 2,Veria,Greece
+E. Mensah,Gamma Ethniki,Doxa Dramas,Greece
+C. Kwateng,Football League,Veria,Greece
+E. Addo,Football League,Asteras Vlachioti,Greece
+O. Quaye,Football League,Asteras Vlachioti,Greece
+K. Abankwa,Football League,Asteras Vlachioti,Greece
+I. Baidoo,Football League,Veria,Greece
+M. Antwi,Ligue 1,CI Kamsar,Guinea
+O. Mandela,Ligue 1,Horoya,Guinea
+B. Mensah,Ligue 1,Horoya,Guinea
+S. Baffour,Ligue 1,Horoya,Guinea
+E. Agyei,Ligue 1,Horoya,Guinea
+A. Frimpong,Ligue 1,CI Kamsar,Guinea
+G. Amedome,NB I,MTK,Hungary
+E. Keke,2. Deild,Víkingur Ólafsvík,Iceland
+B. Quansah,I-League,NEROCA,India
+R. Osumanu,I-League,Gokulam Kerala,India
+M. Awal,I-League,Sreenidi Deccan,India
+A. Mensah,Iraqi League,Al Kahrabaa,Iraq
+S. Mensah,Iraqi League,Naft Maysan,Iraq
+M. Shafiu,Iraqi League,Al Kahrabaa,Iraq
+J. Iban,Iraqi League,Al Talaba,Iraq
+S. Afful,Iraqi League,Al Talaba,Iraq
+S. Badu,Iraqi League,Al Talaba,Iraq
+N. Abu Haji,Iraqi League,Zakho,Iraq
+Remi,Iraqi League,Naft Maysan,Iraq
+E. Ansah,Ligat ha'Al,Hapoel Be'er Sheva,Israel
+E. Gyasi,Ligat ha'Al,Beitar Jerusalem,Israel
+R. Boakye,Ligat ha'Al,Beitar Jerusalem,Israel
+M. Kamaheni,Ligat ha'Al,Ashdod,Israel
+L. Ofori,Ligat ha'Al,Ashdod,Israel
+P. Twumasi,Ligat ha'Al,Maccabi Netanya,Israel
+G. Donyoh,Ligat ha'Al,Maccabi Haifa,Israel
+I. Nortey,Liga Leumit,Maccabi Bnei Raina,Israel
+C. Nombil,Liga Leumit,Hapoel Kfar Saba,Israel
+A. Mugeese,Liga Leumit,Hapoel Ramat Gan,Israel
+K. Aboubakar,Liga Leumit,Hapoel Acre,Israel
+D. Acquah,Liga Leumit,Hapoel Afula,Israel
+G. Akawa,Liga Leumit,Kafr Qasim,Israel
+E. Acquah,Premier League,Montego Bay United,Jamaica
+N. Ibrahim,Regional Leagues,Ococias Kyoto,Japan
+J. Adukor,Premier League,Aktobe,Kazakhstan
+M. Acosty,K League 2,Anyang,Korea Republic
+S. Andoh,Superliga,Prishtina,Kosovo
+S. Sulley,Superliga,Prishtina,Kosovo
+S. Narh,Superliga,Drenica Skënderaj,Kosovo
+L. Amadu,Superliga,Llapi,Kosovo
+I. Yakobo,Premier League,Al Arabi,Kuwait
+N. Cofi,Division 1,Burgan,Kuwait
+J. Kojo,Premier League,Dordoi Bishkek,Kyrgyz Republic
+E. Yaghr,Premier League,Alay,Kyrgyz Republic
+B. Musah,Virsliga,Metta / LU,Latvia
+K. Asamoah,Virsliga,Spartaks Jūrmala,Latvia
+G. Segla,1. Liga,Rēzekne FA,Latvia
+M. Baakoh,Premier League,Al-Madina,Libya
+F. Kyeremeh,A Lyga,Zalgiris,Lithuania
+A. Kyeremeh,A Lyga,Dainava,Lithuania
+D. Naah,A Lyga,Kauno Zalgiris,Lithuania
+E. Sarpong,A Lyga,Džiugas Telšiai,Lithuania
+B. Anoff,National Div…,Swift Hesperange,Luxembourg
+B. Amofa,National Div…,Progrès Niederkorn,Luxembourg
+Y. Abubakar,Super League,Pahang,Malaysia
+A. Agyarkwa,Super League,Selangor,Malaysia
+J. Mintah,Super League,Terengganu,Malaysia
+N. Poku,Premier League,Perak,Malaysia
+G. Mensah,Premier League,Gudja United,Malta
+J. Arthur,Premier League,Gudja United,Malta
+B. Ngissah,Premier League,Birkirkara,Malta
+I. Ntow,Premier League,Hamrun Spartans,Malta
+D. Antwi,Premier League,Mosta,Malta
+G. Acheampong,Premier League,Mosta,Malta
+D. Sowatey,Challenge League,Vittoriosa Stars,Malta
+P. Boakye,Challenge League,Zejtun Corinthians,Malta
+S. Baala,Gozo First D…,Sannat Lions,Malta
+C. Kamara,Premier League,Concorde,Mauritania
+E. Addo,Divizia Nați…,Sheriff,Moldova
+A. Khalid,Divizia Nați…,Sheriff,Moldova
+E. Owusu,Divizia Nați…,Sfîntul Gheorghe,Moldova
+E. Ayiah,National 2,Monaco II,Monaco
+A. Yamoah,First League,Zeta,Montenegro
+Z. Suraka,First League,Rudar,Montenegro
+D. Tieku,Premiership,Hamilton Wanderers,New Zealand
+D. Tieku,Regional Leagues,Hamilton Wanderers,New Zealand
+J. Donkor,Primera Division,UNAN Managua,Nicaragua
+P. Acquah,NPFL,Rivers United,Nigeria
+M. Seidu,NPFL,Enugu Rangers,Nigeria
+A. Mohammed,NPFL,Gombe United,Nigeria
+I. Iddrisu,NPFL,Kano Pillars,Nigeria
+T. Omar,NPFL,Wikki Tourist,Nigeria
+J. Jackson,NPFL,Heartland,Nigeria
+E. Ampiah,NPFL,Enyimba,Nigeria
+D. Agbekpornu,NPFL,Rivers United,Nigeria
+D. Darkwah,NPFL,Enyimba,Nigeria
+P. Mensah,First League,Shkupi,North Macedonia
+P. Amponsah,First League,Pelister,North Macedonia
+G. Cooper,First League,Makedonija GjP,North Macedonia
+G. Koomson,Eliteserien,Bodø / Glimt,Norway
+I. Twum,1. Division,Mjøndalen,Norway
+E. Okine,3. Division,Mjølner,Norway
+A. Tetteh,I Liga,Widzew Łódź,Poland
+J. Amoah,IV Liga,Gryf Słupsk,Poland
+E. Kumah,IV Liga,Wieczysta Kraków,Poland
+A. Ibrahim,Primeira Liga,Famalicão,Portugal
+J. Amoah,Primeira Liga,Vitoria Guimaraes,Portugal
+Y. Moses,Primeira Liga,Arouca,Portugal
+A. Mumin,Primeira Liga,Vitoria Guimaraes,Portugal
+R. Ofori,Primeira Liga,Vizela,Portugal
+K. Safo,Primeira Liga,Vizela,Portugal
+A. Mohammed,Primeira Liga,Vizela,Portugal
+E. Hackman,Primeira Liga,Gil Vicente,Portugal
+J. Owusu,Primeira Liga,Marítimo,Portugal
+A. Yakubu,Segunda Liga,Rio Ave,Portugal
+M. Sulemana,Segunda Liga,Rio Ave,Portugal
+G. Ofosu,Segunda Liga,Varzim,Portugal
+George Ayine,Segunda Liga,Leixões,Portugal
+F. Cann,Segunda Liga,Mafra,Portugal
+P. Ayongo,Segunda Liga,Academico Viseu,Portugal
+M. Lamine,Liga 3,UD Oliveirense,Portugal
+M. Iddriss,Liga 3,Felgueiras 1932,Portugal
+I. Boakye,Liga 3,Canelas 2010,Portugal
+S. Danso,Campeonato d…,Leça,Portugal
+C. Gomina,Campeonato d…,Forjães SC,Portugal
+I. Adam,Campeonato d…,Loures,Portugal
+D. Agyekum,Campeonato d…,Tirsense,Portugal
+M. Sako,Campeonato d…,AR São Martinho,Portugal
+R. Opoku,Campeonato d…,Câmara de Lobos,Portugal
+D. Robertson,Campeonato d…,Valadares Gaia,Portugal
+H. Innusah,Campeonato d…,Lagos,Portugal
+J. Owusu,Campeonato d…,Marítimo II,Portugal
+P. Papi,Campeonato d…,União Idanhense,Portugal
+S. Zibo,Campeonato d…,Lagos,Portugal
+B. Zakaria,Campeonato d…,Gondomar,Portugal
+F. Agyemang,Campeonato d…,Berço,Portugal
+D. Nketia,Campeonato d…,Ideal,Portugal
+S. Mohammed,Campeonato d…,Gondomar,Portugal
+P. Addico,Campeonato d…,Fontinhas,Portugal
+A. Annan,Campeonato d…,Loures,Portugal
+A. Ayew,Stars League,Al Sadd,Qatar
+J. Benson,Second Division,Al Mesaimeer,Qatar
+R. Sumaila,Second Division,Muaither,Qatar
+B. Ansah,Second Division,Lusail City,Qatar
+B. Adjei-Boateng,Liga I,CFR Cluj,Romania
+S. Asamoah,Liga I,U Craiova 1948,Romania
+N. Gafaru,Liga II,Metaloglobus,Romania
+B. Alhassan,Liga II,Hermannstadt,Romania
+S. Issah,Liga II,Hermannstadt,Romania
+J. Fameyeh,FNL,Orenburg,Russia
+P. Donkor,National Soc…,Rayon Sports,Rwanda
+M. Sarpong,National Soc…,Rayon Sports,Rwanda
+A. Acquah,Pro League,Al Batin,Saudi Arabia
+C. Atsu,Pro League,Al Raed,Saudi Arabia
+S. Owusu,Pro League,Al Feiha,Saudi Arabia
+J. Boye,Pro League,Al Feiha,Saudi Arabia
+E. Antwi,Division 1,Najran,Saudi Arabia
+M. Anim Cudjoe,Premiership,Dundee United,Scotland
+I. Mustapha,Super Liga,Novi Pazar,Serbia
+R. Obuobi,Super Liga,Voždovac,Serbia
+E. Appiah,Super Liga,Metalac GM,Serbia
+A. Alhassan,Prva Liga,Grafičar,Serbia
+A. Abdul Majeed,Prva Liga,Grafičar,Serbia
+I. Tanko,Prva Liga,Javor Ivanjica,Serbia
+S. Abubakar,Prva Liga,Radnički Sr. Mitrovica,Serbia
+R. Obeng,Prva Liga,Železničar Pančevo,Serbia
+J. Bempah,Srpska Liga,Borac Čačak,Serbia
+A. Musah,Srpska Liga,Trayal Kruševac,Serbia
+R. Ibrahim,Super Liga,Trenčín,Slovakia
+Z. Sharani,Super Liga,DAC 1904,Slovakia
+B. Anang,Super Liga,Zilina,Slovakia
+R. Owusu,Super Liga,Zilina,Slovakia
+A. Aremeyaw,Super Liga,Zilina,Slovakia
+H. Addo,Super Liga,Zilina,Slovakia
+K. Boateng,Super Liga,Spartak Trnava,Slovakia
+F. Appiah,2. liga,Šamorín,Slovakia
+B. Owusu,2. liga,Šamorín,Slovakia
+B. Anang,2. liga,Žilina II,Slovakia
+R. Owusu,2. liga,Žilina II,Slovakia
+A. Aremeyaw,2. liga,Žilina II,Slovakia
+E. Boateng,2. liga,Šamorín,Slovakia
+K. Boateng,Tipsport Liga,Spartak Trnava,Slovakia
+R. Ibrahim,Tipsport Liga,Trenčín,Slovakia
+E. Boakye,1. SNL,Olimpija,Slovenia
+N. Babil,1. SNL,Aluminij,Slovenia
+S. Wirekoh,2. SNL,Rudar,Slovenia
+W. Maapeh,2. SNL,Brežice,Slovenia
+I. Mensah,3. SNL,ND Slovan Ljubljana,Slovenia
+K. Peprah,PSL,Orlando Pirates,South Africa
+R. Zumah,PSL,Maritzburg United,South Africa
+E. Gyimah,PSL,Sekhukhune United,South Africa
+R. Ofori,PSL,Orlando Pirates,South Africa
+D. Gozar,1st Division,Black Leopards,South Africa
+V. Bakah,1st Division,Richards Bay,South Africa
+M. Abubakar,1st Division,Black Leopards,South Africa
+D. Taylor,Sudani Premi…,Al Merreikh,Sudan
+R. Yakubu,Sudani Premi…,Al Ahly Shendi,Sudan
+B. Acquah,Allsvenskan,Helsingborg,Sweden
+E. Boateng,Allsvenskan,Elfsborg,Sweden
+M. Baidoo,Allsvenskan,Elfsborg,Sweden
+N. Mohammed,Allsvenskan,Häcken,Sweden
+M. Moro,Allsvenskan,Mjällby,Sweden
+E. Adu,Allsvenskan,Mjällby,Sweden
+M. Abubakari,Allsvenskan,Malmö,Sweden
+G. Mensah,Allsvenskan,Varberg,Sweden
+L. Sabah,Superettan,Västerås SK,Sweden
+S. Mensiro,Superettan,Östersunds FK,Sweden
+F. Arhin,Superettan,Östersunds FK,Sweden
+T. Boakye,Superettan,Halmstad,Sweden
+P. Kpozo,Superettan,Östersunds FK,Sweden
+S. Karim,Superettan,Halmstad,Sweden
+E. Kwakwa,Superettan,Jönköpings Södra,Sweden
+P. Ofosu-Ayeh,Superettan,Halmstad,Sweden
+N. Moro,Superettan,Örebro,Sweden
+E. Adu,Ettan,Trollhättan,Sweden
+K. Kizito,Ettan,Falkenberg,Sweden
+S. Fatawu,Ettan,Trollhättan,Sweden
+E. Yeboah,Ettan,Umeå FC,Sweden
+N. Mohammed,Ettan,Sandviken,Sweden
+I. Alhassan,Ettan,Gefle,Sweden
+E. Agyemang Duah,Ettan,Hammarby Talang,Sweden
+G. Kubuntu,Ettan,Piteå,Sweden
+N. Adjei,Ettan,Hammarby Talang,Sweden
+I. Shaze,Ettan,Trollhättan,Sweden
+F. Ofori,Ettan,Trollhättan,Sweden
+T. Komey,Division 2,Boden,Sweden
+S. Alabi,Super League,Luzern,Switzerland
+E. Essiam,Super League,Basel,Switzerland
+M. Nuhu,Super League,St. Gallen,Switzerland
+L. Ati Zigi,Super League,St. Gallen,Switzerland
+R. Selasi,Challenge League,Kriens,Switzerland
+K. Aboagye,1. Liga Classic,Monthey,Switzerland
+A. Toure,1. Liga Classic,La Chaux-de-Fonds,Switzerland
+B. Asamoah,Vysshaya Liga,Ravshan,Tajikistan
+C. Narkotey,Vysshaya Liga,CSKA Pamir,Tajikistan
+B. Morrison,Ligi kuu Bara,Simba,Tanzania
+D. Amoah,Ligi kuu Bara,Azam,Tanzania
+S. Duah,Ligi kuu Bara,Namungo,Tanzania
+I. Honny,Thai League 1,Police Tero,Thailand
+L. Ablorh,Thai League 1,Police Tero,Thailand
+K. Karikari,Thai League 1,Nakhon Ratchasima,Thailand
+D. Adiyiah,Thai League 3,Sisaket,Thailand
+E. Baffour,Ligue 1,Soliman,Tunisia
+P. Ahiabu,Ligue 1,Soliman,Tunisia
+I. Aboudou,Ligue 1,Métlaoui,Tunisia
+P. Boah,Ligue 1,Hammam-Lif,Tunisia
+S. Ampaw,Ligue 1,Etoile du Sahel,Tunisia
+A. Wayo,Ligue 1,Etoile du Sahel,Tunisia
+P. Arthur,Ligue 2,Stade Tunisien,Tunisia
+P. Awuku,Süper Lig,Yeni Malatyaspor,Turkey
+B. Tetteh,Süper Lig,Yeni Malatyaspor,Turkey
+B. Mensah,Süper Lig,Kayserispor,Turkey
+G. Donsah,Süper Lig,Yeni Malatyaspor,Turkey
+J. Attamah,Süper Lig,Kayserispor,Turkey
+I. Cofie,Süper Lig,Sivasspor,Turkey
+I. Sackey,Süper Lig,Hatayspor,Turkey
+H. Osman,Süper Lig,Yeni Malatyaspor,Turkey
+I. Donkor,1. Lig,Adanaspor,Turkey
+S. Tetteh,1. Lig,Adanaspor,Turkey
+Y. Ackah,1. Lig,Ankara Keçiörengücü,Turkey
+M. Mohammed,1. Lig,Eyüpspor,Turkey
+M. Otoo,1. Lig,Balıkesirspor,Turkey
+O. Kwabena,1. Lig,Ankaragücü,Turkey
+N. Yakubu,Premier League,Vorskla,Ukraine
+R. Owusu,Premier League,Zorya,Ukraine
+F. Hammond,Druha Liga,Karpaty Halych,Ukraine
+Z. Mohammed,Arabian Gul…,Kalba,United Arab Emirates
+G. Dwubeng,Arabian Gul…,Al Wasl,United Arab Emirates
+F. Ahmed,Arabian Gul…,Emirates,United Arab Emirates
+B. Ayim,Arabian Gul…,Al Dhafra,United Arab Emirates
+L. Amesimeku,Arabian Gul…,Al Dhafra,United Arab Emirates
+I. Atanga,MLS,Cincinnati,USA
+J. Mensah,MLS,Columbus Crew,USA
+D. Bloyou,MLS,Atlanta United,USA
+Y. Yeboah,MLS,Columbus Crew,USA
+L. Blessing,MLS,Los Angeles,USA
+E. Twumasi,MLS,Dallas,USA
+K. Opoku,MLS,Los Angeles,USA
+A. Danladi,MLS,Minnesota United,USA
+G. Asomani,MLS,SJ Earthquakes,USA
+D. Accam,MLS,Nashville SC,USA
+L. Abubakar,MLS,Colorado Rapids,USA
+H. Afful,MLS,Charlotte,USA
+K. Owusu,MLS,New York City,USA
+E. Boateng,MLS,New England,USA
+E. Amoh,USL Championship,Rio Grande Valley,USA
+W. Ackwei,USL Championship,Loudoun United,USA
+M. Abu,USL Championship,San Antonio,USA
+D. Oduro,USL Championship,Memphis 901,USA
+M. Yeboah,USL Championship,Las Vegas Lights,USA
+G. Koffie,USL Championship,Indy Eleven,USA
+F. Atuahene,USL Championship,Memphis 901,USA
+K. Opoku,USL Championship,Las Vegas Lights,USA
+I. Bawa,USL Championship,LA Galaxy II,USA
+R. Tetteh,USL Championship,New Mexico United,USA
+P. Kasim,USL Championship,Birmingham Legion,USA
+S. Asante,USL Championship,Phoenix Rising,USA
+J. Yaro,USL Championship,San Diego Loyal,USA
+A. Asiedu,USL Championship,Birmingham Legion,USA
+D. Dowouna,USL Championship,Miami FC,USA
+E. Ackon,USL Championship,San Diego Loyal,USA
+S. Armah Ashitey,USL Championship,Hartford Athletic,USA
+I. Osumanu,USL League One,Union Omaha,USA
+R. Nuhu,USL League One,Union Omaha,USA
+F. Appiah,USL League Two,Charlotte Eagles,USA
+M. Zakyi,USL League Two,Flint City Bucks,USA
+J. Otoo,USL League Two,Des Moines Menace,USA
+A. Adam,USL League Two,Ventura County Fusion,USA
+P. Afful,USL League Two,Charlotte Eagles,USA
+I. Kissi,NPSL,Rochester Lancers,USA
+K. Osei,Primera División,Caracas,Venezuela
+A. Livingstone,Primera División,Estudiantes de Mérida,Venezuela
+Le Van Phu,V.League 1,Nam Dinh,Vietnam
+E. Agyemang,Premier League,Cefn Druids,Wales
+Z. Adams,Super League,Forest Rangers,Zambia
+A. Moro,Super League,Forest Rangers,Zambia
+R. Ocran,Super League,Nkana,Zambia
+E. Owusu,Super League,Zanaco,Zambia
