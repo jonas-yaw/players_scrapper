@@ -1,7 +1,8 @@
+from fileinput import filename
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-import urllib3
+from datetime import datetime
 
 
 url = 'https://gh.soccerway.com/players/players_abroad/ghana/'
@@ -24,7 +25,7 @@ players_data = pd.DataFrame(columns=col)
 country = ''
 cleaned = ''
 
-for j in table.find_all('tr')[1:]:
+for j in table.find_all('tr'):
     row = [i.text for i in j]
 
     if len(row) == 3:
@@ -40,4 +41,5 @@ for j in table.find_all('tr')[1:]:
         players_data.loc[length] = clean_row  
     
 #extract to csv
-players_data.to_csv(r'C:\Users\user\Documents\players_scrapper\players.csv',index=False)
+filename = str(datetime.today())[:19].replace('-','').replace(':','').replace(' ','')
+players_data.to_csv(f'C:/Users/user/Documents/players_scrapper/{filename}.csv',index=False)
